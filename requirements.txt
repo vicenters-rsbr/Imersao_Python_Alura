@@ -2,3 +2,4 @@ pandas
 streamlit
 plotly
 altair==4
+standard-imghdr
